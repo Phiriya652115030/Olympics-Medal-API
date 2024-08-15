@@ -3,14 +3,14 @@
     {
       "country": "Turkey",
       "gold": [{"sport": "Wrestling"}],
-      "silver": [{"sport": "Boxing, Taekwondo"}],
-      "bronze": [{"sport": "Shooting, Archery, Judo"}]
+      "silver": [{"sport": "Boxing"}, {"sport": "Taekwondo"}],
+      "bronze": [{"sport": "Shooting"}, {"sport": "Archery"}, {"sport": "Judo"}]
     },
     {
       "country": "Canada",
-      "gold": [{"sport": "Ice Hockey, Swimming, Athletics"}],
-      "silver": [{"sport": "Canoeing, Cycling"}],
-      "bronze": [{"sport": "Gymnastics, Rowing, Tennis"}]
+      "gold": [{"sport": "Ice Hockey"}, {"sport": "Swimming"}, {"sport": "Athletics"}],
+      "silver": [{"sport": "Canoeing"}, {"sport": "Cycling"}],
+      "bronze": [{"sport": "Gymnastics"}, {"sport": "Rowing"}, {"sport": "Tennis"}]
     },
     {
       "country": "Belize",
@@ -20,21 +20,21 @@
     },
     {
       "country": "Switzerland",
-      "gold": [{"sport": "Tennis, Skiing"}],
+      "gold": [{"sport": "Tennis"}, {"sport": "Skiing"}],
       "silver": [{"sport": "Cycling"}],
-      "bronze": [{"sport": "Fencing, Rowing"}]
+      "bronze": [{"sport": "Fencing"}, {"sport": "Rowing"}]
     },
     {
       "country": "China",
-      "gold": [{"sport": "Table Tennis, Diving"}],
-      "silver": [{"sport": "Weightlifting, Badminton"}],
-      "bronze": [{"sport": "Swimming, Athletics"}]
+      "gold": [{"sport": "Table Tennis"}, {"sport": "Diving"}],
+      "silver": [{"sport": "Weightlifting"}, {"sport": "Badminton"}],
+      "bronze": [{"sport": "Swimming"}, {"sport": "Athletics"}]
     },
     {
       "country": "Colombia",
       "gold": [{"sport": "Weightlifting"}],
       "silver": [{"sport": "Cycling"}],
-      "bronze": [{"sport": "Boxing, Athletics"}]
+      "bronze": [{"sport": "Boxing"}, {"sport": "Athletics"}]
     },
     {
       "country": "Costa Rica",
@@ -44,9 +44,9 @@
     },
     {
       "country": "Germany",
-      "gold": [{"sport": "Rowing, Canoeing"}],
+      "gold": [{"sport": "Rowing"}, {"sport": "Canoeing"}],
       "silver": [{"sport": "Football"}],
-      "bronze": [{"sport": "Cycling, Athletics"}]
+      "bronze": [{"sport": "Cycling"}, {"sport": "Athletics"}]
     },
     {
       "country": "Denmark",
@@ -62,15 +62,15 @@
     },
     {
       "country": "United Kingdom",
-      "gold": [{"sport": "Cycling, Sailing"}],
+      "gold": [{"sport": "Cycling"}, {"sport": "Sailing"}],
       "silver": [{"sport": "Athletics"}],
-      "bronze": [{"sport": "Swimming, Rowing"}]
+      "bronze": [{"sport": "Swimming"}, {"sport": "Rowing"}]
     },
     {
       "country": "Italy",
-      "gold": [{"sport": "Fencing, Swimming"}],
+      "gold": [{"sport": "Fencing"}, {"sport": "Swimming"}],
       "silver": [{"sport": "Cycling"}],
-      "bronze": [{"sport": "Athletics, Rowing"}]
+      "bronze": [{"sport": "Athletics"}, {"sport": "Rowing"}]
     },
     {
       "country": "Iceland",
@@ -80,15 +80,15 @@
     },
     {
       "country": "United States",
-      "gold": [{"sport": "Swimming, Athletics, Basketball"}],
+      "gold": [{"sport": "Swimming"}, {"sport": "Athletics"}, {"sport": "Basketball"}],
       "silver": [{"sport": "Gymnastics"}],
-      "bronze": [{"sport": "Tennis, Cycling"}]
+      "bronze": [{"sport": "Tennis"}, {"sport": "Cycling"}]
     },
     {
       "country": "South Africa",
       "gold": [{"sport": "Athletics"}],
       "silver": [{"sport": "Swimming"}],
-      "bronze": [{"sport": "Rugby, Cycling"}]
+      "bronze": [{"sport": "Rugby"}, {"sport": "Cycling"}]
     },
     {
       "country": "Uzbekistan",
@@ -134,9 +134,9 @@
     },
     {
       "country": "Russia",
-      "gold": [{"sport": "Gymnastics, Wrestling"}],
+      "gold": [{"sport": "Gymnastics"}, {"sport": "Wrestling"}],
       "silver": [{"sport": "Ice Hockey"}],
-      "bronze": [{"sport": "Athletics, Swimming"}]
+      "bronze": [{"sport": "Athletics"}, {"sport": "Swimming"}]
     },
     {
       "country": "Pakistan",
@@ -206,7 +206,7 @@
     },
     {
       "country": "South Korea",
-      "gold": [{"sport": "Archery, Taekwondo"}],
+      "gold": [{"sport": "Archery"}, {"sport": "Taekwondo"}],
       "silver": [{"sport": "Judo"}],
       "bronze": [{"sport": "Football"}]
     },
@@ -224,7 +224,7 @@
     },
     {
       "country": "Israel",
-      "gold": [{"sport": "Judo, Gymnastics"}],
+      "gold": [{"sport": "Judo"}, {"sport": "Gymnastics"}],
       "silver": [{"sport": "Swimming"}],
       "bronze": [{"sport": "Athletics"}]
     },
@@ -241,47 +241,46 @@
       "bronze": [{"sport": "Shooting"}]
     },
     {
-        "country": "Brazil",
-        "gold": [{"sport": "Fencing"}],
-        "silver": [{"sport": "Archery"}],
-        "bronze": [{"sport": "Equestrian"}]
+      "country": "Brazil",
+      "gold": [{"sport": "Fencing"}],
+      "silver": [{"sport": "Archery"}],
+      "bronze": [{"sport": "Equestrian"}]
     },
     {
-        "country": "Bolivia",
-        "gold": [{"sport": "Mountaineering"}],
-        "silver": [{"sport": "Archery"}],
-        "bronze": [{"sport": "Judo"}]
+      "country": "Bolivia",
+      "gold": [{"sport": "Mountaineering"}],
+      "silver": [{"sport": "Archery"}],
+      "bronze": [{"sport": "Judo"}]
     },
     {
-        "country": "Australia",
-        "gold": [{"sport": "Ice Hockey"}],
-        "silver": [{"sport": "Athletics"}],
-        "bronze": [{"sport": "Skiing"}]
+      "country": "Australia",
+      "gold": [{"sport": "Ice Hockey"}],
+      "silver": [{"sport": "Athletics"}],
+      "bronze": [{"sport": "Skiing"}]
     },
     {
-        "country": "Angola",
-        "gold": [{"sport": "Cross-Country Skiing"}],
-        "silver": [{"sport": "Biathlon"}],
-        "bronze": [{"sport": "Ice Hockey"}]
+      "country": "Angola",
+      "gold": [{"sport": "Cross-Country Skiing"}],
+      "silver": [{"sport": "Biathlon"}],
+      "bronze": [{"sport": "Ice Hockey"}]
     },
     {
-        "country": "Anguilla",
-        "gold": [{"sport": "Football"}],
-        "silver": [{"sport": "Rugby"}],
-        "bronze": [{"sport": "Tennis"}]
+      "country": "Anguilla",
+      "gold": [{"sport": "Football"}],
+      "silver": [{"sport": "Rugby"}],
+      "bronze": [{"sport": "Tennis"}]
     },
     {
-        "country": "Belgium",
-        "gold": [{"sport": "Football, Volleyball"}],
-        "silver": [{"sport": "Athletics"}],
-        "bronze": [{"sport": "Swimming"}]
+      "country": "Belgium",
+      "gold": [{"sport": "Football"}, {"sport": "Volleyball"}],
+      "silver": [{"sport": "Athletics"}],
+      "bronze": [{"sport": "Swimming"}]
     },
     {
-        "country": "Benin",
-        "gold": [{"sport": "Football, Volleyball"}],
-        "silver": [{"sport": "Athletics"}],
-        "bronze": [{"sport": "Swimming"}]
+      "country": "Benin",
+      "gold": [{"sport": "Football"}, {"sport": "Volleyball"}],
+      "silver": [{"sport": "Athletics"}],
+      "bronze": [{"sport": "Swimming"}]
     },
   ]
 }
-
