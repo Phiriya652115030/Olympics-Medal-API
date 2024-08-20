@@ -281,6 +281,6 @@
       "gold": [{"sport": "Football"}, {"sport": "Volleyball"}],
       "silver": [{"sport": "Athletics"}],
       "bronze": [{"sport": "Swimming"}]
-    },
+    }
   ]
 }
