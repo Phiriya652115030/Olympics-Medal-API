@@ -3,6 +3,7 @@
     {
       "country": "Turkey",
       "id": "101",
+      "flag": "https://www.countryflags.com/wp-content/uploads/turkey-flag-png-large.png",
       "gold": [{"sport": "Wrestling"}],
       "silver": [{"sport": "Boxing"}, {"sport": "Taekwondo"}],
       "bronze": [{"sport": "Shooting"}, {"sport": "Archery"}, {"sport": "Judo"}]
@@ -10,6 +11,7 @@
     {
       "country": "Canada",
       "id": "102",
+      "flag": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png",
       "gold": [{"sport": "Ice Hockey"}, {"sport": "Swimming"}, {"sport": "Athletics"}],
       "silver": [{"sport": "Canoeing"}, {"sport": "Cycling"}],
       "bronze": [{"sport": "Gymnastics"}, {"sport": "Rowing"}, {"sport": "Tennis"}]
@@ -17,6 +19,7 @@
     {
       "country": "Belize",
       "id": "103",
+      "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-19-1536x1024.jpg",
       "gold": [{"sport": "Athletics"}],
       "silver": [{"sport": "Cycling"}],
       "bronze": [{"sport": "Sailing"}]
@@ -24,6 +27,7 @@
     {
       "country": "Switzerland",
       "id": "104",
+      "flag": "https://www.countryflags.com/wp-content/uploads/switzerland-flag-png-large.png",
       "gold": [{"sport": "Tennis"}, {"sport": "Skiing"}],
       "silver": [{"sport": "Cycling"}],
       "bronze": [{"sport": "Fencing"}, {"sport": "Rowing"}]
@@ -31,6 +35,7 @@
     {
       "country": "China",
       "id": "105",
+      "flag": "https://www.countryflags.com/wp-content/uploads/china-flag-png-large.png",
       "gold": [{"sport": "Table Tennis"}, {"sport": "Diving"}],
       "silver": [{"sport": "Weightlifting"}, {"sport": "Badminton"}],
       "bronze": [{"sport": "Swimming"}, {"sport": "Athletics"}]
@@ -38,6 +43,7 @@
     {
       "country": "Colombia",
       "id": "106",
+      "flag": "https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png",
       "gold": [{"sport": "Weightlifting"}],
       "silver": [{"sport": "Cycling"}],
       "bronze": [{"sport": "Boxing"}, {"sport": "Athletics"}]
@@ -45,6 +51,7 @@
     {
       "country": "Costa Rica",
       "id": "107",
+      "flag": "https://www.countryflags.com/wp-content/uploads/costa-rica-flag-png-large.png",
       "gold": [{"sport": "Surfing"}],
       "silver": [{"sport": "Swimming"}],
       "bronze": [{"sport": "Cycling"}]
@@ -52,6 +59,7 @@
     {
       "country": "Germany",
       "id": "108",
+      "flag": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png",
       "gold": [{"sport": "Rowing"}, {"sport": "Canoeing"}],
       "silver": [{"sport": "Football"}],
       "bronze": [{"sport": "Cycling"}, {"sport": "Athletics"}]
@@ -59,6 +67,7 @@
     {
       "country": "Denmark",
       "id": "109",
+      "flag": "https://www.countryflags.com/wp-content/uploads/denmark-flag-png-large.png",
       "gold": [{"sport": "Sailing"}],
       "silver": [{"sport": "Rowing"}],
       "bronze": [{"sport": "Badminton"}]
@@ -66,6 +75,7 @@
     {
       "country": "Egypt",
       "id": "110",
+      "flag": "https://www.countryflags.com/wp-content/uploads/egypt-flag-png-large.png",
       "gold": [{"sport": "Wrestling"}],
       "silver": [{"sport": "Boxing"}],
       "bronze": [{"sport": "Weightlifting"}]
@@ -73,6 +83,7 @@
     {
       "country": "United Kingdom",
       "id": "111",
+      "flag": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
       "gold": [{"sport": "Cycling"}, {"sport": "Sailing"}],
       "silver": [{"sport": "Athletics"}],
       "bronze": [{"sport": "Swimming"}, {"sport": "Rowing"}]
@@ -80,6 +91,7 @@
     {
       "country": "Italy",
       "id": "112",
+      "flag": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png",
       "gold": [{"sport": "Fencing"}, {"sport": "Swimming"}],
       "silver": [{"sport": "Cycling"}],
       "bronze": [{"sport": "Athletics"}, {"sport": "Rowing"}]
@@ -87,6 +99,7 @@
     {
       "country": "Iceland",
       "id": "113",
+      "flag": "https://www.countryflags.com/wp-content/uploads/iceland-flag-png-large.png",
       "gold": [{"sport": "Handball"}],
       "silver": [{"sport": "Swimming"}],
       "bronze": [{"sport": "Judo"}]
@@ -94,6 +107,7 @@
     {
       "country": "United States",
       "id": "114",
+      "flag": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
       "gold": [{"sport": "Swimming"}, {"sport": "Athletics"}, {"sport": "Basketball"}],
       "silver": [{"sport": "Gymnastics"}],
       "bronze": [{"sport": "Tennis"}, {"sport": "Cycling"}]
@@ -101,6 +115,7 @@
     {
       "country": "South Africa",
       "id": "115",
+      "flag": "https://www.countryflags.com/wp-content/uploads/south-africa-flag-png-large.png",
       "gold": [{"sport": "Athletics"}],
       "silver": [{"sport": "Swimming"}],
       "bronze": [{"sport": "Rugby"}, {"sport": "Cycling"}]
@@ -108,6 +123,7 @@
     {
       "country": "Uzbekistan",
       "id": "116",
+      "flag": "https://www.countryflags.com/wp-content/uploads/uzbekistan-flag-png-large.png",
       "gold": [{"sport": "Boxing"}],
       "silver": [{"sport": "Wrestling"}],
       "bronze": [{"sport": "Judo"}]
@@ -115,6 +131,7 @@
     {
       "country": "Ukraine",
       "id": "117",
+      "flag": "https://www.countryflags.com/wp-content/uploads/ukraine-flag-png-large.png",
       "gold": [{"sport": "Gymnastics"}],
       "silver": [{"sport": "Boxing"}],
       "bronze": [{"sport": "Wrestling"}]
@@ -122,6 +139,7 @@
     {
       "country": "Thailand",
       "id": "118",
+      "flag": "https://www.countryflags.com/wp-content/uploads/thailand-flag-png-large.png",
       "gold": [{"sport": "Boxing"}],
       "silver": [{"sport": "Weightlifting"}],
       "bronze": [{"sport": "Taekwondo"}]
@@ -129,6 +147,7 @@
     {
       "country": "Somalia",
       "id": "119",
+      "flag": "https://www.countryflags.com/wp-content/uploads/somalia-flag-png-large.png",
       "gold": [{"sport": "Athletics"}],
       "silver": [{"sport": "Boxing"}],
       "bronze": [{"sport": "Wrestling"}]
@@ -136,6 +155,7 @@
     {
       "country": "San Marino",
       "id": "120",
+      "flag": "https://www.countryflags.com/wp-content/uploads/san-marino-flag-png-large.png",
       "gold": [{"sport": "Shooting"}],
       "silver": [{"sport": "Archery"}],
       "bronze": [{"sport": "Wrestling"}]
@@ -143,6 +163,7 @@
     {
       "country": "Slovakia",
       "id": "121",
+      "flag": "https://www.countryflags.com/wp-content/uploads/slovakia-flag-png-large.png",
       "gold": [{"sport": "Canoeing"}],
       "silver": [{"sport": "Shooting"}],
       "bronze": [{"sport": "Athletics"}]
@@ -150,6 +171,7 @@
     {
       "country": "Sweden",
       "id": "122",
+      "flag": "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png",
       "gold": [{"sport": "Ice Hockey"}],
       "silver": [{"sport": "Athletics"}],
       "bronze": [{"sport": "Cycling"}]
@@ -157,6 +179,7 @@
     {
       "country": "Russia",
       "id": "123",
+      "flag": "https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png",
       "gold": [{"sport": "Gymnastics"}, {"sport": "Wrestling"}],
       "silver": [{"sport": "Ice Hockey"}],
       "bronze": [{"sport": "Athletics"}, {"sport": "Swimming"}]
@@ -164,6 +187,7 @@
     {
       "country": "Pakistan",
       "id": "124",
+      "flag": "https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png",
       "gold": [{"sport": "Hockey"}],
       "silver": [{"sport": "Boxing"}],
       "bronze": [{"sport": "Wrestling"}]
@@ -171,6 +195,7 @@
     {
       "country": "Panama",
       "id": "125",
+      "flag": "https://www.countryflags.com/wp-content/uploads/panama-flag-png-large.png",
       "gold": [{"sport": "Athletics"}],
       "silver": [{"sport": "Boxing"}],
       "bronze": [{"sport": "Swimming"}]
